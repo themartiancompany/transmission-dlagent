@@ -35,7 +35,7 @@ install-configs:
 
 	install \
 	  -vDm644 \
-	  "configs/makepkg.android.conf" \
+	  "configs/makepkg.conf" \
 	  "$(DATA_DIR)/$(_PROJECT)/makepkg.conf"
 
 install-doc:
