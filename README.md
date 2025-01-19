@@ -1,7 +1,8 @@
 # Transmission Download Agent
 
-A Transmission makepkg download
-agent.
+A [Transmission](
+  https://transmissionbt.com)
+BitTorrent client makepkg download agent.
 
 ## License
 
